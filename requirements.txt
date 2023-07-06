@@ -1,3 +1,5 @@
+pydantic==1.7.4
+urllib3==1.26.6
 gradio
 langchain
 python-dotenv
