@@ -119,9 +119,9 @@ langdetect==1.0.9
 layoutparser==0.3.4
 linkify-it-py==2.0.2
 llama-index==0.6.26
-llvmlite @ file:///D:/ChatGPTApps/SauSheong1/llvmlite-0.40.1-cp311-cp311-win_amd64.whl#sha256=5b3076dc4e9c107d16dc15ecb7f2faf94f7736cd2d5e9f4dc06287fd672452c1
+llvmlite
 loguru==0.7.0
-lxml @ file:///D:/ChatGPTApps/AskBookLangChainOpenAI/lxml-4.9.0-cp311-cp311-win_amd64.whl#sha256=99ebe7a80815d3ac941278f5ba21e729c624e65f4b75b050cbaaa2b6177c4427
+lxml
 lz4==4.3.2
 manifest-ml==0.0.1
 Markdown==3.4.3
@@ -149,7 +149,7 @@ networkx==3.1
 nltk==3.8.1
 notebook==6.5.4
 notebook_shim==0.2.3
-numba @ file:///D:/ChatGPTApps/SauSheong1/numba-0.57.1-cp311-cp311-win_amd64.whl#sha256=93df62304ada9b351818ba19b1cfbddaf72cd89348e81474326ca0b23bf0bae1
+numba
 numexpr==2.8.4
 numpy==1.24.0
 olefile==0.46
@@ -175,7 +175,7 @@ Pillow==9.5.0
 pinecone-client==2.2.2
 pipreqs==0.4.13
 platformdirs==3.5.3
-plone.recipe.lxml @ file:///D:/ChatGPTApps/AskBookLangChainOpenAI/plone.recipe.lxml-0.4.tar.gz#sha256=313e74f3dad4bc443fa3f1d8a60ff9faac73242878588a68230916579cdf71f5
+plone.recipe.lxml
 plotly==5.15.0
 portalocker==2.7.0
 posthog==3.0.1
@@ -203,11 +203,11 @@ PyMuPDF==1.22.3
 pypandoc==1.11
 pyparsing==3.0.9
 pypdf==3.9.1
-PyPDF2 @ file:///D:/ChatGPTApps/ConversationalBot/pypdf2-3.0.1-py3-none-any.whl#sha256=d16e4205cfee272fbdc0568b68d82be796540b1537508cef59388f839c191928
+PyPDF2
 pypiwin32==223
 pyreadline3==3.4.1
 pyrsistent==0.19.3
-pytesseract @ file:///D:/ChatGPTApps/AskBookLangChainOpenAI/pytesseract-0.3.10-py3-none-any.whl#sha256=8f22cc98f765bf13517ead0c70effedb46c153540d25783e04014f28b55a5fc6
+pytesseract
 python-dateutil==2.8.2
 python-docx==0.8.11
 python-dotenv==1.0.0
@@ -246,7 +246,7 @@ soupsieve==2.4.1
 spacy==3.5.3
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
-SpeechRecognition @ file:///D:/ChatGPTApps/ShwetaLodhaVoiceChatbot/SpeechRecognition-3.10.0.tar.gz#sha256=14131155e8a8ba00ead1b7b9b1a2fa71c845e4db5f9a5f66a33a1bd6c55c6c35
+SpeechRecognition
 SQLAlchemy==2.0.16
 sqlitedict==2.1.0
 srsly==2.4.6
