@@ -204,7 +204,7 @@ pypandoc==1.11
 pyparsing==3.0.9
 pypdf==3.9.1
 PyPDF2
-pypiwin32==223
+#pypiwin32
 pyreadline3==3.4.1
 pyrsistent==0.19.3
 pytesseract
