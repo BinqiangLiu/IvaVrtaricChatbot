@@ -93,8 +93,8 @@ idna==3.4
 importlib-metadata==6.6.0
 iopath==0.1.10
 ipykernel==6.23.2
-ipython==8.14.0
-ipython-genutils==0.2.0
+ipython
+ipython-genutils
 ipywidgets==8.0.6
 isoduration==20.11.0
 jedi==0.18.2
