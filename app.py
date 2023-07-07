@@ -34,7 +34,7 @@ def chat_response(input_text):
 
 interface = gr.Interface(fn=chat_response, inputs="text", outputs="text", description="Chat with a conversational agent")
 
-interface.launch(share=True)
+interface.launch(share=False)
 
 
 
